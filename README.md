@@ -53,9 +53,16 @@ On other Debian or Ubuntu releases, the OpenSSL runtime package name may differ.
 
 Make sure your system also provides compatible glibc and libstdc++ versions.
 
-### 2. Download Nexo
+### 2. Download and extract Nexo
 
-Download `nexo-linux-x86_64` from the [Releases page](https://github.com/samuelwahbe/Nexo/releases) and save it to your Downloads directory.
+Download `nexo-linux-x86_64.tar.gz` from the [GitHub Releases](https://github.com/samuelwahbe/Nexo/releases) page and save it to your Downloads directory.
+
+Extract the archive:
+
+```bash
+cd "$HOME/Downloads"
+tar -xzf nexo-linux-x86_64.tar.gz
+```
 
 ### 3. Install the executable
 
@@ -63,7 +70,7 @@ Run:
 
 ```bash
 sudo install -m 755 \
-  "$HOME/Downloads/nexo-linux-x86_64" \
+  "$HOME/Downloads/nexo-0.1.0-linux-x86_64/nexo" \
   /usr/local/bin/nexo
 ```
 
