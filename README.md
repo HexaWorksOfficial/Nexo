@@ -6,7 +6,7 @@ Nexo is an open-source command-line toolkit written in C++ for Linux. It provide
 
 ## About
 
-A build of Nexo is tested before being released to users. Testing is performed on [Debian](https://www.debian.org/).
+A build of Nexo is tested before being released to users.
 
 ## Features
 
