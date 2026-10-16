@@ -32,7 +32,7 @@ The exact compatibility depends on the versions available in your distribution. 
 
 ## Download
 
-Download the prebuilt Linux x86_64 executable from the [GitHub Releases](https://github.com/samuelwahbe/Nexo/releases) page.
+Download the prebuilt Linux x86_64 executable from the [GitHub Releases](https://github.com/HexaWorksOfficial/Nexo/releases) page.
 
 Choose the asset named `nexo-linux-x86_64`.
 
@@ -55,7 +55,7 @@ Make sure your system also provides compatible glibc and libstdc++ versions.
 
 ### 2. Download and extract Nexo
 
-Download `nexo-linux-x86_64.tar.gz` from the [GitHub Releases](https://github.com/samuelwahbe/Nexo/releases) page and save it to your Downloads directory.
+Download `nexo-linux-x86_64.tar.gz` from the [GitHub Releases](https://github.com/HexaWorksOfficial/Nexo/releases) page and save it to your Downloads directory.
 
 Extract the archive:
 
