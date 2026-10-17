@@ -23,7 +23,7 @@ namespace nexo::commands
             << "\n\n"
 
             << "  " << gray << "Version      " << reset
-            << white << "0.1.0" << reset << '\n'
+            << white << "0.1.1" << reset << '\n'
 
             << "  " << gray << "Language     " << reset
             << white << "C++" << reset << '\n'
@@ -35,7 +35,7 @@ namespace nexo::commands
             << white << "Linux" << reset << '\n'
 
             << '\n'
-            << gray << "  Made by samuelwahbe"
+            << gray << "  Made by HexaWorks"
             << reset << '\n'
             << '\n';
 
