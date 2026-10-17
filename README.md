@@ -70,7 +70,7 @@ Run:
 
 ```bash
 sudo install -m 755 \
-  "$HOME/Downloads/nexo-0.1.0-linux-x86_64/nexo" \
+  "$HOME/Downloads/nexo-*-linux-x86_64/nexo" \
   /usr/local/bin/nexo
 ```
 
